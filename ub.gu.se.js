@@ -1,5 +1,5 @@
 (function init() {
-  const src = "search-primo/dist/app.5dae9ca5.js.5dae9ca5.js.5781caf9.js"
+  const src = "search-primo/dist/app.5dae9ca5.js.5dae9ca5.js.5781caf9.js.5781caf9.js"
   var s = document.createElement( 'script' );
   s.setAttribute( 'src', src );
   document.body.appendChild( s );
